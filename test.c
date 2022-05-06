@@ -1,7 +1,9 @@
 #include <stdio.h>
 int main(){
-    int num1 = 20;
-    int num2 = 30;
-
-    if ()
+   int i = 0;
+   while (i < 5){
+       printf("%d\n",i);
+       i++;
+   }
 }
+ 
