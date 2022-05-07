@@ -1,9 +1,7 @@
 #include <stdio.h>
 int main(){
-   int i = 0;
-   while (i < 5){
-       printf("%d\n",i);
-       i++;
-   }
+   int i[]={'teddy','deni','oweh'};
+   printf('%d\n',sizeof(i[0]));
+    
 }
  
